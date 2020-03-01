@@ -4,7 +4,7 @@ public class SwapString {
 
 	public static void main(String[] args) {
     String a="Hello";
-    String b="World";
+    String b="Worlds";
      
     a=a+b;
      
