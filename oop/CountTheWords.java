@@ -9,7 +9,7 @@ public class CountTheWords {
         Scanner sc = new Scanner(System.in);
         String s=sc.nextLine();
         String[] words = s.trim().split(" ");
-        System.out.println("Number of words in the string = "+words.length);
+        System.out.println("Numbers of words in the string = "+words.length);
            sc.close();
 	}
 
