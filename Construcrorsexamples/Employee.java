@@ -9,7 +9,7 @@ public class Employee {
 	}
 	
 	void display(){
-		System.out.println("employee id is "  + Empid);
+		System.out.println("employees id is "  + Empid);
 		
 	}
 	public static void main(String[] args) {
